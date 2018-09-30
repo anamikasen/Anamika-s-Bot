@@ -107,7 +107,7 @@ def main():
     #     time.sleep(0.5)
     lastUpdateID = None
     while True:
-        print('dafuq')
+        #print('dafuq')
         updates = getUpdates(lastUpdateID)
         if len(updates['result']) > 0:
             lastUpdateID = getLastUpdateID(updates)+1
