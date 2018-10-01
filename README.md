@@ -20,3 +20,6 @@ The files of importance are:
 #### 4) dbhelper.py:
         SQLite script for database.
         
+![start](https://user-images.githubusercontent.com/31828834/46264705-b2271880-c4ed-11e8-9531-3a50820acacf.jpg)
+![select](https://user-images.githubusercontent.com/31828834/46264740-03370c80-c4ee-11e8-8b69-abab2b017ef0.jpg)
+![after](https://github.com/anamikasen/Anamika-s-Bot/issues/3)
